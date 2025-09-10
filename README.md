@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Harshit Jaiswal — a Computer Science student at DTU with a passion for building scalable tech solutions.  <br>🚀 I specialize in Android development (Flutter/Kotlin), backend development (FastAPI), and cloud computing with CI/CD.  <br>🎯 I enjoy working on real-world projects that combine performance, security, and seamless user experience.  <br>🌱 Currently learning and exploring variety of things<br>📬 Let's collaborate on impactful projects or just talk tech!<br>
+Hi, I'm Harshit Jaiswal — a Computer Science student at DTU with a passion for building scalable tech solutions.  <br>🚀 I specialize in Android development (Flutter/Kotlin) and backend development (Node.js + Express).  <br>🎯 I enjoy working on real-world projects that combine performance, security, and seamless user experience.  <br>🌱 Currently learning and exploring variety of things<br>📬 Let's collaborate on impactful projects or just talk tech!<br>
 
 
 ## 🌐 Socials:
